@@ -3,7 +3,7 @@ def main():
     expression = input("Expression: ")
     #convert user input to variables x, y, z with a space inbetween
     x, y, z = expression.split(" ")
-    #xonvert the inputs x and z to float
+    #convert the inputs x and z to float
     fl_x = float(x)
     fl_z = float(z)
 
