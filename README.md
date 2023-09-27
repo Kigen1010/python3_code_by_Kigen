@@ -1,2 +1,2 @@
-# python3_code_by_Kigencs50
+# python3_code_by_Kigen
 Kigen: learning projects
