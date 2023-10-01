@@ -1,8 +1,9 @@
 #using loops in python
 #highlights different methods of usin loops to carry out the same task
 #methods used here is to define own function and then call it
+#these are 6 independent methods which do similar tasks
 #to activate each code, call the main function by removing the # value
-#the preliminary codes are building up to the last code, which is has been left active
+#the preliminary codes are illustrations, method 6 has been left active
 
 #------------------------------------------------
 #method 1: using for loop
